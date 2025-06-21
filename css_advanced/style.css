@@ -42,3 +42,9 @@
   font-weight: bold;
   margin-top: 20px;
 }
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
