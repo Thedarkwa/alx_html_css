@@ -1,1 +1,14 @@
-
+ header {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.banner {
+  background-image: url('banner.jpg');
+  background-size: cover;
+  height: 400px;
+  color: white;
+  text-align: center;
+}
